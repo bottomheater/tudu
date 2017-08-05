@@ -11,7 +11,7 @@
 		<param-name>
 			javax.servlet.jsp.jstl.fmt.localizationContext
 		</param-name>
-		<param-value>messages</param-value>
+		<param-value>messages_zh</param-value>
 	</context-param>
 
 	<context-param>
