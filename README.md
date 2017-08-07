@@ -1,4 +1,4 @@
-tudu
+##tudu
 
 本项目是基于Tudu Lists 2.3重构，Tudu lists是一个WEb应用的开源项目，用于管理todo的，也可以用于项目管理。
 
@@ -8,7 +8,7 @@ tudu
 
 
 
-关于本项目
+##关于本项目
 
 本项目是基于Tudu Lists 2.3重构，目前涉及到两个子项目tudu-dwr和tudu-core，其中tudu-dwr为Action层，tudu-core为Service层和Domain层，前者通过Maven引用后者。
 
@@ -24,7 +24,7 @@ tudu
 
 
 
-涉及技术
+##涉及技术
 
 前端：JSP(Ver 2.4)、DWR(Ver 2.0.2)、GWT、Portlet
 
